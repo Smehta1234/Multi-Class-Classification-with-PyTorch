@@ -11,7 +11,6 @@ This repository contains a multi-class classification project built using **PyTo
 ## 📷 Visualization:
 The repository includes **decision boundary plots** that show how well the model classifies different regions.
 
-![Decision Boundary](image.png)
 
 ## 🔧 Setup & Usage:
 
